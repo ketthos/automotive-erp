@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+AutomotiveERP is a simple ERP system written in Ruby on Rails that help managing cars dealers or any car sellers.
 
-Things you may want to cover:
+Currently in developpement, we will focus on severals modules
 
-* Ruby version
+* Sales cars
 
-* System dependencies
+* Buy cars
 
-* Configuration
+* Financial services
 
-* Database creation
+* Cars inventories
 
-* Database initialization
+* Dealers databases
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
